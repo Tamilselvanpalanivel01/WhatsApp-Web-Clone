@@ -40,13 +40,6 @@ The repository is organized into folders for clarity:
 
 For detailed instructions, please refer to the `README.md` file.
 
-## Screenshots
-
-![Login Page](/screenshots/login.png)
-*Caption: Login page for existing users.*
-
-![Chat Page](/screenshots/chat.png)
-*Caption: Main chat interface for real-time messaging.*
 
 ## Contribution
 
