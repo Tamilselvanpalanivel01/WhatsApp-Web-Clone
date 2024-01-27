@@ -1,10 +1,3 @@
-# WhatsApp-Web-Clone
-click to visit website : https://tamilselvanpalanivel01.github.io/WhatsApp-Web-Clone/
-
-Certainly! A good GitHub repository description should provide a clear and concise overview of your project. Here's a sample description for your WhatsApp website project:
-
----
-
 # WhatsApp Web Clone
 
 Welcome to the WhatsApp Web Clone project! This is a web application developed using HTML, CSS, JavaScript, jQuery, AJAX, and PHP, aiming to replicate the functionality of the official WhatsApp web platform.
@@ -40,6 +33,13 @@ The repository is organized into folders for clarity:
 
 For detailed instructions, please refer to the `README.md` file.
 
+## Watch the Demo Video
+
+To watch a demonstration of the project, you can download the video using the link below:
+
+[Download Demo Video](https://github.com/Tamilselvanpalanivel01/WhatsApp-Web-Clone/blob/main/whatsapp.mp4)
+
+Once downloaded, you can play the video using your preferred media player.
 
 ## Contribution
 
@@ -48,5 +48,3 @@ Feel free to contribute by opening issues or creating pull requests. Your feedba
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
